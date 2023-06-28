@@ -1,0 +1,12 @@
+.app {
+    font-family: Calibri, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+.main-container {
+    border-radius: 5px;
+    border-color: black;
+    width: 1024px;
+}
+
